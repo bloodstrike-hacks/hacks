@@ -1,2 +1,5 @@
-# hacks
-bloodstrike hacks includes esp, aimbot, bullet-track, skinhack...
+# Features
+Esp, aimbot, bullet-track, skinhack...
+
+# Usage
+Inject the loader.py with injector[https://github.com/bloodstrike-hacks/injector]
